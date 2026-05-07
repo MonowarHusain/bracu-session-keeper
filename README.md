@@ -1,5 +1,11 @@
 # BRACU Session Keeper Pro 🛡️
 
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?style=for-the-badge&logo=googlechrome)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-green?style=for-the-badge)
+![Privacy First](https://img.shields.io/badge/Privacy-First-success?style=for-the-badge&logo=shield)
+![Open Source](https://img.shields.io/badge/Open-Source-orange?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
+
 A lightweight, privacy-first Manifest V3 Chrome extension designed to seamlessly maintain active Google Workspace sessions for institutional accounts, preventing disruptive automatic sign-outs.
 
 ---
@@ -18,7 +24,7 @@ These policies create frustrating, unexpected logouts that interrupt workflow du
 
 ---
 
-## 🛠️ The Solution
+# 🛠️ The Solution
 
 **BRACU Session Keeper Pro** acts as an automated, zero-overhead background guardian.
 
@@ -66,6 +72,7 @@ This extension is strictly local and completely private.
 
 ## ✅ No Data Collection
 The extension does **NOT**:
+
 - Read emails
 - Access Google Drive files
 - Monitor browsing history
@@ -74,6 +81,7 @@ The extension does **NOT**:
 
 ## ✅ No Telemetry or Tracking
 There are:
+
 - No analytics
 - No tracking scripts
 - No external databases
@@ -89,6 +97,7 @@ The response body is never parsed, stored, or transmitted.
 
 ## ✅ Open Source
 The entire codebase is:
+
 - Human-readable
 - Unminified
 - Fully auditable
@@ -174,6 +183,7 @@ Users are responsible for ensuring compliance with their institution’s IT poli
 # 👨‍💻 Developer
 
 ## Monowar Husain
+
 Undergraduate Student  
 Department of Computer Science & Engineering  
 BRAC University
